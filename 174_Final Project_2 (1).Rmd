@@ -1,6 +1,6 @@
 ---
 title: "174 Project"
-author: "Carrie Yan (9497124), Claire Hua (9952425), Ivy Tran, Michelle Martin, Fady Naeim"
+author: "Claire Hua (9952425)"
 date: "12/5/2018"
 output: pdf_document
 ---
